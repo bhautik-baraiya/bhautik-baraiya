@@ -115,7 +115,7 @@
 
 ## 🧠 Problem Solving
 
-✔ Solved **40+ LeetCode problems**  
+✔ Solved **50+ LeetCode problems**  
 ✔ Strong grasp of **DSA & algorithms**  
 ✔ Focus on clean & optimized solutions
 
